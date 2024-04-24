@@ -1,0 +1,49 @@
+body{
+  background-color: rgba(38, 218, 38, 0.596);
+}
+
+nav{
+  display: flex;
+  background-color: #fff;
+  padding-top: 15px;
+  box-shadow: 2px 2px 15px #0000006e;
+}
+nav p{
+  margin-left: 30px;
+}
+nav ul{
+    padding-top: 15px;
+  display: flex;
+  position: absolute;
+  top: 0;
+  right: 30px;
+}
+nav ul li{
+  list-style: none;
+  margin-left: 10px;
+}
+
+.tbl-head{
+  border-radius: 15px solid #a71616;
+}
+.custom-div{
+  width: 500px;
+  margin-top: 70px;
+  background-color: #fff;
+  padding: 20px 20px;
+  border-radius: 10px;
+}
+.btn-del{
+  color: rgb(223, 5, 5);
+}
+.btn-custom{
+  margin: 0 0 15px 0;
+  padding: 5px 30px;
+}
+.users{
+  display: inline-flex;
+
+}
+.link-update{
+  margin-right: 20px;
+}
